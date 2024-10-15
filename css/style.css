@@ -1,5 +1,8 @@
 .titolo{
-  color: yellow;
+  color: brown;
   font-family: Impact;
   text-align: center;
+}
+.sfondo{
+  background-color: light blue;
 }
