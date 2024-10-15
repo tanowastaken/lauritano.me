@@ -1,8 +1,16 @@
-.titolo{
-  color: brown;
+h1{
+  color: MidnightBlue;
   font-family: Impact;
   text-align: center;
 }
+h2{
+  color: Navy;
+}
+hr{
+  background: Navy;
+  border: 0;
+  height: 1px;
+}
 body{
-  background-color: blue;
+  background-color: LightBlue;
 }
