@@ -14,3 +14,9 @@ hr{
 body{
   background-color: LightBlue;
 }
+table {
+
+border-collapse: separate;
+
+
+}
