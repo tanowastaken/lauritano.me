@@ -12,11 +12,13 @@ hr{
   height: 1px;
 }
 body{
+  font-family: arial;
   background-color: LightBlue;
+  font-size: 1.3rem;
 }
 table {
 
-border-collapse: separate;
+  border-collapse: separate;
 
 
 }
