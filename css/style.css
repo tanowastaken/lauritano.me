@@ -6,6 +6,9 @@ h1{
 h2{
   color: Navy;
 }
+h3{
+  color: Navy;
+}
 hr{
   background: Navy;
   border: 0;
@@ -17,8 +20,5 @@ body{
   font-size: 1.3rem;
 }
 table {
-
-  border-collapse: separate;
-
 
 }
