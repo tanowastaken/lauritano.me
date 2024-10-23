@@ -17,12 +17,12 @@ hr{
 body{
   font-family: arial;
   background-color: LightBlue;
-  font-size: 1.3rem;
+  font-size: 1.7rem;
 }
 table {
   font-family: arial;
-  background-color: SpringGreen;
-  font-size: 1.3rem;
+  background-color: Khaki;
+  font-size: 1.7rem;
   table-layout : auto;
 border: 2px solid black;
 border-collapse: separate;
