@@ -8,6 +8,12 @@ h2{
 }
 h3{
   color: Navy;
+
+}
+
+h5{
+  text-align: center;
+  font-style: italic;
 }
 hr{
   background: Navy;
@@ -19,12 +25,26 @@ body{
   background-color: LightBlue;
   font-size: 1.7rem;
 }
-table {
+
+table{
+  width: 100%;
+  font-size: 1.7rem;
+
+}
+table.iscrizione{
   font-family: arial;
   background-color: Khaki;
-  font-size: 1.7rem;
-  table-layout : auto;
-border: 2px solid black;
-border-collapse: separate;
-border-spacing: 10px;
+  border: 2px solid black;
+}
+td.iscrizione{
+  border: 1px solid black;
+}
+td{
+  width: 33%;
+  text-align: center;
+}
+img{
+  margin-left:auto;
+  margin-right: auto;
+  display: block;
 }
